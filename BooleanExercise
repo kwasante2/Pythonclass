@@ -1,0 +1,5 @@
+num = input("Type in a number")
+if int(num)%2==0:
+    print("yes")
+else:
+    print("No")
